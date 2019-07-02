@@ -1,3 +1,75 @@
 td {
     padding:0 15px 0 15px;
+    color: black;
 }
+
+#my-name, h1 {
+    color:#0040ff;
+}
+  
+#my-name, h2 {
+    color: #0095ff;
+  } 
+
+#my-name, h3 {
+    color:#00dcff;
+}
+
+#about-me {
+    color:#5ce9ff;
+}
+
+#education1, h4 {
+ color: #96f1ff;
+}
+
+#education1, h4 {
+    color: #00dcff;
+}
+#education1, h5 {
+    color:#96f1ff;
+}
+
+#education1, p {
+    color: #bff6ff;
+}
+
+#education2 h2 {
+  color: #0040ff;
+}
+
+#education2 h4 {
+ color:#0095ff;
+}
+
+#education2 h5 {
+   color:#00dcff;
+}
+
+#education2 p {
+    color:#96f1ff;
+}
+
+#education3 h2 {
+    color: #0040ff;
+}
+
+#education3 h4 {
+ color: #0095ff;
+}
+
+#education3 h5 {
+    color:#00dcff;
+}
+
+#education3 p {
+    color:#96f1ff;
+}
+
+#employment1 p {
+    color:#bff6ff;
+}
+body {
+    background-color: #757575;
+    }
+ 
