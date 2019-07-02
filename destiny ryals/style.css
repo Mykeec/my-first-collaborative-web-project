@@ -1,6 +1,11 @@
 td {
     padding:0 15px 0 15px;
 }
-#my-name {
-    color: #35FAFF
+#my-name, h1 {
+    color: #00FFFF;
+}
+
+body {
+    background-color:black; 
+    color: white;
 }
